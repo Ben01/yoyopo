@@ -1,6 +1,6 @@
 <?php if ( yyp_language_is_myanmar() ) { ?>
 <div class="unsupportedMessage" id="topUnsupportedMessage">
-	<p><em class='warning'>Warning!</em><br />
+	<p><em class='warning'>Warning</em><br />
 	Your setup does not support Karen text. Scripts have attempted to convert the Karen Unicode text information on this page to images; however, for best results, you should consider upgrading your system.</p>
 
 	<ol>

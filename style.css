@@ -1735,16 +1735,16 @@ img#wpstats {
 
 @font-face {  
 	  font-family: 'PadaukSgaw';
-	  src: url('../fonts/PadaukSgaw.eot'); /* IE */
-	  src: local('PadaukSgaw'), url('../fonts/PadaukSgaw.ttf') format('truetype'); /* non-IE */
+	  src: url('./fonts/PadaukSgaw.eot'); /* IE */
+	  src: local('PadaukSgaw'), url('./fonts/PadaukSgaw.ttf') format('truetype'); /* non-IE */
 }
 
-.myUniTest {
+.kswUniTest {
 	  font-family: PadaukSgaw, 'Padauk Sgaw', Padauk, 'Padauk Book Sgaw', 'Padauk Book', Ayar, TharLon, Vemana2000, Pothana2000, Code2000, 'GNU Unifont', Parabaik, Myanmar3, 'Masterpiece Uni Sans', Thanlwin, WinuniInnwa, Xenotype, MyMyanmar, Yunghkio, Panglong, "sans-serif";
 	  font-size: 1em; /* don't make it so small that rounding errors give problems */
 	  color: white; /* should be same as background to make it invisible */
  }
-.myText {
+.kswText {
 	  font-family: PadaukSgaw, 'Padauk Sgaw', Padauk, 'Padauk Book Sgaw', 'Padauk Book', Ayar, TharLon, Vemana2000, Pothana2000, Code2000, 'GNU Unifont', Parabaik, Myanmar3, 'Masterpiece Uni Sans', Thanlwin, WinuniInnwa, Xenotype, MyMyanmar, Yunghkio, Panglong, "sans-serif";
  }
 
@@ -1754,7 +1754,7 @@ img#wpstats {
 	margin:5px 15px;
 	border-style:dashed;
 	border-width:2px;
-	/* display:none; */
+	display:none;
 }
 
 .unsupportedMessage .warning {
