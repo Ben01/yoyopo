@@ -8,8 +8,8 @@
  * located in the functions.php file.
  *
  * @package WordPress
- * @subpackage Yo_Yo_Po
- * @since Yo_Yo_Po 1.0
+ * @subpackage Twenty_Twelve
+ * @since Twenty Twelve 1.0
  */
 
 /*

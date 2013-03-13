@@ -105,8 +105,4 @@ endif;
 		</div><!-- #content -->
 	</div><!-- #primary -->
 
-
-<?php get_template_part( 'compatibility-test' ); ?>
-
 <?php get_footer(); ?>
-

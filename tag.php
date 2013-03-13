@@ -50,7 +50,4 @@ get_header(); ?>
 	</section><!-- #primary -->
 
 <?php get_sidebar(); ?>
-
-<?php get_template_part( 'compatibility-test' ); ?>
-
 <?php get_footer(); ?>
